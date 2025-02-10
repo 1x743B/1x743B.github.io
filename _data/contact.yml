@@ -6,13 +6,14 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: discord
+  icon: "fa-brands fa-discord"
+  url:  "https://discordapp.com/users/371283266579202050"
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: medium
+  icon: "fa-brands fa-medium"
+  url:  "https://medium.com/@9L4743"
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
